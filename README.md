@@ -14,6 +14,7 @@
 
 -  **Learning :** Full-Stack Development :zap: | Java    
 -  **Languages :** PHP, JavaScript, Python
+-  **Hobbies :** gardening :cherries: & Music :headphones:
 -  **Contact me :** [YanelRicarte](https://www.linkedin.com/in/yanelricarte/)
 
 
