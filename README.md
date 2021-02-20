@@ -9,7 +9,7 @@ Welcome to my page!
 ### I'm Yanel, a Web Developer
 
 ####
-![I am GitHub Readme Generator's creator](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+!(https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
 
 
