@@ -5,7 +5,7 @@
 </a>
 <a href="https://github.com/yanelricarte">
   <img align="left" alt="Yanel Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
-</a>-}.
+</a>-
 
 
 👋 Hi I'm Yanel, a Web Developer from Argentina 🚀. 
