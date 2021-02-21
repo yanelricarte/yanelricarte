@@ -1,7 +1,3 @@
-<div align="center">
-<p align="center">Welcome to my page <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </p> </br> 
-</div>
-
 <a href="https://www.linkedin.com/in/yanelricarte/">
   <img align="left" alt="Yanel Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
@@ -10,9 +6,13 @@
 </a>
 
 </br>
+<div align="center">
+<p align="center">Welcome to my page <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </p> </br> 
+</div>
+
 </br>
  
- <p>👋 Hi I'm Yanel, a Web Developer from Argentina 🚀. </p>
+ <p>👋 Hi! I'm Yanel, a Web Developer from Argentina 🚀. </p>
 
 ### About
 
