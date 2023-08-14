@@ -13,7 +13,7 @@
 ### About
 
 -  **Learning :** Full-Stack Development :zap: | Java    
--  **Languages :** JavaScript, PHP, Python
+-  **Languages :** JavaScript, PHP, React, Node
 -  **Hobbies :** gardening :cherries: & Music :headphones:
 -  **Contact me :** [YanelRicarte](https://www.linkedin.com/in/yanelricarte/)
 
