@@ -1,37 +1,23 @@
-<a href="https://www.linkedin.com/in/yanelricarte/">
-  <img align="left" alt="Yanel Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="https://github.com/yanelricarte">
-  <img align="left" alt="Yanel Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
-</a>
-</br>
-<div align="center">
-<p align="center">Welcome to my page <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </p> </br> 
-</div>
- <p>Hi! I'm Yanel, a Web Developer from Argentina 🚀. </p>
+# Hola, soy Yanel Ricarte 👋
 
-### About
+**Desarrolladora full-stack** y **docente de informática**. Combino el desarrollo de software con la enseñanza de la programación y la tecnología educativa.
 
--  **Learning :** Full-Stack Development :zap: | Java    
--  **Languages :** JavaScript, PHP, React, Node
--  **Hobbies :** gardening :cherries: & Music :headphones:
--  **Contact me :** [YanelRicarte](https://www.linkedin.com/in/yanelricarte/)
+🔭 Hoy trabajo en aplicaciones web con **PHP/Laravel** y **JavaScript**.
 
-
-### Languages and Tools
-
- 
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
-
-
+🎓 Doy clases de **Sistemas Computacionales** y **programación**, donde diseño materiales educativos digitales y prácticas para el aula.
 
 ---
-⭐️ From [Yanel Ricarte](https://github.com/yanelricarte)
 
+### 🛠️ Stack
+
+![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+
+### 📫 Dónde encontrarme
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yanelricarte/)
