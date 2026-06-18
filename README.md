@@ -3,7 +3,7 @@
 # Hola, soy Yanel Ricarte 👋
 
 **Desarrolladora full-stack** (PHP/Laravel · JavaScript · Python) y
-**docente de informática** en escuelas técnicas de Argentina.
+**docente de informática**.
 
 </div>
 
