@@ -13,7 +13,7 @@
 
 - 🏗️ **Desarrollo** aplicaciones web con **Laravel** y arquitectura por capas (Services, DTOs, Jobs), y front con JavaScript/React.
 - 🤖 **Construyo** bots, automatizaciones y aplicaciones internas para agilizar el trabajo diario.
-- 👩‍🏫 **Enseño** Sistemas Computacionales y programación en nivel superior, y desarrollo el material didáctico que comparto aquí.
+- 👩‍🏫 **Enseño** Sistemas Computacionales y programación en nivel superior, y desarrollo el material didáctico, que también comparto aquí.
 
 ### Proyectos destacados
 
