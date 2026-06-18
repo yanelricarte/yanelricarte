@@ -2,8 +2,7 @@
 
 # Hola, soy Yanel Ricarte 👋
 
-**Desarrolladora full-stack** (PHP/Laravel · JavaScript · Python) y
-**docente de informática**.
+### Desarrolladora full-stack (PHP/Laravel · JavaScript · Python) y docente de informática
 
 </div>
 
