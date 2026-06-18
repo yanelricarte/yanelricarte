@@ -5,30 +5,25 @@
 **Desarrolladora full-stack** (PHP/Laravel · JavaScript · Python) y
 **docente de informática** en escuelas técnicas de Argentina.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-yanelricarte-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yanelricarte/)
-
 </div>
 
 ---
 
 ### Lo que hago
 
-- 🏗️ **Desarrollo** aplicaciones web con **Laravel** y arquitectura por capas
-  (Services, DTOs, Jobs), y front con JavaScript/React.
-- 👩‍🏫 **Enseño** Sistemas Computacionales, programación, PHP y MySQL —
-  con material propio versionado y sitios docentes deployados.
-- 🤖 Construyo **herramientas reales** que uso a diario: bots, automatizaciones
-  y apps internas.
+- 🏗️ **Desarrollo** aplicaciones web con **Laravel** y arquitectura por capas (Services, DTOs, Jobs), y front con JavaScript/React.
+- 🤖 **Construyo** bots, automatizaciones y aplicaciones internas para agilizar el trabajo diario.
+- 👩‍🏫 **Enseño** Sistemas Computacionales y programación en nivel superior; desarrollo mi propio material publicado aquí mismo.
 
 ### Proyectos destacados
 
 | Proyecto | Qué es | Stack |
-|----------|--------|-------|
-| [Evaluacion_proyectos](https://github.com/yanelricarte/Evaluacion_proyectos) | Material y rúbricas para evaluación de proyectos | HTML · docencia |
-| [api-pantallas-publicitarias](https://github.com/yanelricarte/api-pantallas-publicitarias) | API para gestión de pantallas publicitarias | PHP · Laravel |
-| [consultor-clima](https://github.com/yanelricarte/consultor-clima) | Consulta de clima por API | Python |
-| [gestion_hechizos](https://github.com/yanelricarte/gestion_hechizos) | App de gestión (proyecto didáctico) | JavaScript |
+|---|---|---|
+| [api-pantallas-publicitarias](https://github.com/yanelricarte/api-pantallas-publicitarias) | API REST para gestión de pantallas publicitarias | Laravel · MySQL · JWT |
+| [consultor-clima](https://github.com/yanelricarte/consultor-clima) | App de clima en tiempo real | Python · Flask |
+| [gestion_hechizos](https://github.com/yanelricarte/gestion_hechizos) | CRUD full-stack (proyecto didáctico) | React · Express · MongoDB |
 | [app_android](https://github.com/yanelricarte/app_android) | App móvil nativa | Kotlin |
+| [Evaluacion_proyectos](https://github.com/yanelricarte/Evaluacion_proyectos) | Material y rúbricas docentes | HTML · docencia |
 
 ### Tecnologías
 
@@ -41,8 +36,10 @@
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 
+---
+
 <div align="center">
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=yanelricarte&show_icons=true&hide=stars&theme=default)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yanelricarte/)
 
 </div>
